@@ -13,6 +13,7 @@ html {
 
 .main-div {
   min-height: 100vh;
+  min-width: 100vw;
   background: #060822;
   display: flex;
   justify-content: center;
@@ -21,7 +22,7 @@ html {
 
 .child-div {
   text-align: center;
-  margin-top: 12rem;
+  margin-top: 3rem;
 }
 
 .child-div figure img {
@@ -39,7 +40,7 @@ html {
 input {
   /* display: block; */
   min-width: 40rem;
-  height: 3.4rem;
+  height: 3rem;
   padding: 2rem 1.2rem;
   font-size: 1.8rem;
   line-height: 1.42857143;

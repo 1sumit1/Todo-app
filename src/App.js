@@ -16,20 +16,10 @@ import Restorents from './FoodApp/Restorents';
 function App() {
   return (
     <div className="App">
-      
-      {/* <RedCount cmp={Counter}/>
-      <GreenCount cmp={Counter}/>
-      <YelllowCount cmp={Counter}/> */}
-      {/* <UseMemo/> */}
-      {/* <REF/> */}
-      {/* <UseRef/> */}
-      {/* <ForwordRef/> */}
-      {/* <ArrayList/> */}
-      {/* <ArrayList1/> */}
 
-      <Restorent/>
+      {/* <Restorent/> */}
 
-      {/* <Todo/> */}
+      <Todo/>
 
       {/* <Temp/> */}
 

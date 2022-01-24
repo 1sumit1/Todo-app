@@ -70,7 +70,6 @@ export const Todo = () => {
                     <figure>
                         <img src="./images/todo.svg" alt="todo logo" />
                         <figcaption>Add your List Here</figcaption>
-
                     </figure>
                     <div className="addItems">
                         <input type="text" placeholder="Add Items" className="form-control" value={inputData} onChange={(e)=>setInputData(e.target.value)}/>
